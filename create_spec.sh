@@ -1,5 +1,4 @@
 #!/bin/bash
-gem install rspec
 bundle init
 echo "gem 'pry'" >> "Gemfile"
 echo "gem 'rspec'" >> "Gemfile"
@@ -11,7 +10,6 @@ read filename
 echo "Spec Folders and Files Created!"
 mkdir "lib"
 touch "lib/$filename.rb"
-# mkdir "spec"
 mkdir "spec/lib"
 specname="_spec.rb"
 touch "spec/lib/$filename$specname"
