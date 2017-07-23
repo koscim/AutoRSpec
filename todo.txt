@@ -1,7 +1,7 @@
 Future updates will include automation features such as:
-- installing the RSpec gem
-- creating a Gemfile
-- specifying libraries such as require 'pry' and require 'rspec' within that Gemfile
-- bundling the Gemfile
-- initializing RSpec within that directory
-- populating the .rspec folder with "--color" and "--require spec_helper
+- installing the RSpec gem (completed 7/23/2017)
+- creating a Gemfile (completed 7/23/2017)
+- specifying libraries such as require 'pry' and require 'rspec' within that Gemfile (completed 7/23/2017)
+- bundling the Gemfile (completed 7/23/2017)
+- initializing RSpec within that directory (completed 7/23/2017)
+- populating the .rspec folder with "--color" and "--require spec_helper (completed 7/23/2017)
